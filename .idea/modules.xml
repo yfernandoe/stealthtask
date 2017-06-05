@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../StealthTask/StealthTask.iml" filepath="$PROJECT_DIR$/../StealthTask/StealthTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../StealthTask/test/test.iml" filepath="$PROJECT_DIR$/../StealthTask/test/test.iml" group="Junk" />
+    </modules>
+  </component>
+</project>
